@@ -15,5 +15,4 @@ class Dog
     puts "woof!"
   end
 
-
 end
